@@ -20,4 +20,4 @@ the doc strings in this header.
 
 ## License
 
-MIT © [Ross Online Solutions](https://github.com/rossonlinesolutions)
+MIT © [TrES-5b GmBH](https://github.com/tres5b)
